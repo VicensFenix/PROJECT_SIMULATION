@@ -49,3 +49,8 @@ lib64/
 .coverage
 htmlcov/
 .pytest_cache/
+
+# Ignorar carpetas de PyInstaller
+dist/
+build/
+*.spec
